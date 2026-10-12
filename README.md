@@ -14,9 +14,8 @@ Sistem Persediaan & Cost adalah aplikasi manajemen stok dan biaya operasional ya
 ## Live Demo
 
 Demo website:
-https://your-username.github.io/sistem-persediaan-dan-cost/
+](https://disyakarima665-debug.github.io/sistem-persediaan-dan-penggunaan-bahan-ayam-gebok/)
 
-> Ganti link di atas dengan URL deployment kamu setelah project di-hosting.
 
 ## Why This Project?
 
